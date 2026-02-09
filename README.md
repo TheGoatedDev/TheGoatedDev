@@ -22,7 +22,7 @@ I architect modern web applications and manage cloud infrastructure across multi
 
 **[EnterpriseNest](https://github.com/TheGoatedDev/EnterpriseNest)** — Enterprise-level API framework built on NestJS. Domain-driven design with onion, clean, and hexagonal architecture patterns.
 
-**NearIRM** — Multi-tenant incident response management system with real-time alerting and multi-channel notification delivery (email, Slack, webhooks, web push).
+**[NearIRM](https://irm.nearlunar.com)** — Multi-tenant incident response management system with real-time alerting and multi-channel notification delivery (email, Slack, webhooks, web push).
 
 **[GitRuley](https://github.com/TheGoatedDev/GitRuley)** — Mass GitHub repository ruleset editor. Bulk-manage rulesets across repositories without the manual tedium.
 
