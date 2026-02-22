@@ -28,6 +28,8 @@ I architect modern web applications and manage cloud infrastructure across multi
 
 **[All-The-Infra](https://github.com/TheGoatedDev/All-The-Infra)** — Production-ready Docker Compose reference with all the services you should ever need.
 
+**[Omni Agent SDK](https://github.com/TheGoatedDev/omni-agent-sdk)** — One interface for AI coding agents. Unified TypeScript SDK with adapters for Claude, OpenAI Codex, and OpenCode — swap providers by changing a single import.
+
 ## Get in Touch
 
 - [thegoated.dev](https://thegoated.dev)
