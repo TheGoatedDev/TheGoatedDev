@@ -1,18 +1,18 @@
 # Thomas Burridge
 
-Lead Software Engineer, DevOps Lead & Cyber Security Analyst at Propriotec. Based in the United Kingdom.
+Lead Software Engineer, DevOps Lead & Cyber Security Analyst based in the United Kingdom.
 
 I architect modern web applications and manage cloud infrastructure across multiple regions. My work sits at the intersection of software development, DevOps, and cybersecurity.
 
 ## What I Work With
 
-**Languages:** TypeScript, JavaScript, Go
+**Languages:** TypeScript, JavaScript, Python, Go
 
-**Backend:** Node.js, NestJS, Express, WebSockets
+**Backend:** Node.js, NestJS, Express, WebSockets, FastAPI
 
 **Frontend:** React, Next.js, Tailwind CSS
 
-**Infrastructure:** AWS, Kubernetes, Docker, HAProxy, CI/CD
+**Infrastructure:** AWS, Azure, Kubernetes, Docker, HAProxy, CI/CD
 
 **Data:** PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, NATS
 
